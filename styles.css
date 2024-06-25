@@ -1,0 +1,28 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    text-align: center;
+}
+h1 {
+    font-size: 5em;
+    margin: 0;
+}
+p {
+    font-size: 1.2em;
+}
+.links a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.links a:hover {
+    text-decoration: underline;
+}
