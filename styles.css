@@ -1,0 +1,33 @@
+body {
+    background-color: gray;
+    color: gold;
+    font-family: 'Assassin's Creed', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p {
+    margin: 20px 0;
+}
+
+.links a {
+    color: gold;
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+.links a:hover {
+    text-decoration: underline;
+}
